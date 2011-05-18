@@ -10,7 +10,7 @@ Have fun!
 
 ============IMPORTANT==============
 
-This is the source code of the add-on. If you'e like to play with it, you must have 'cfx' installed on your 
+This is the source code of the add-on. If you like to play with it, you must have 'cfx' installed on your 
 computer. You have to generate xpi and load it to have the add-on installed on your firefox locally.
 
 Install cfx, run "cfx --help" for all available switches and documentation.
