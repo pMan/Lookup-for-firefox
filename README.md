@@ -8,7 +8,7 @@ The source code is made available to download for the purpose of learning.
 
 Have fun!
 
-#IMPORTANT
+###IMPORTANT###
 
 This is the source code of the add-on. If you like to play with it, you must have 'cfx' installed on your 
 computer. You have to generate xpi and load it to have the add-on installed on your firefox locally.
